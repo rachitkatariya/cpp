@@ -1,6 +1,5 @@
 // Find number, character and etc
 
-/* 
 #include<iostream>
 using namespace std;
 int main (){
@@ -20,4 +19,4 @@ int main (){
         cout << ch << " is a special character";
      }
      return 0;
-} */
+} 
